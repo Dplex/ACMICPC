@@ -1,3 +1,5 @@
-30 20
-10 10
-10 20
+4
+I will go now to find the Wookiee
+Solo found the death star near planet Kessel
+I'll fight Darth Maul here and now
+Vader will find Luke before he can escape

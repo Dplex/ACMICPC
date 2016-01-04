@@ -159,7 +159,7 @@ ClientBin/
 *.pfx
 *.publishsettings
 node_modules/
-
+*opendb
 # RIA/Silverlight projects
 Generated_Code/
 
