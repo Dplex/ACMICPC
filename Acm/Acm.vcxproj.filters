@@ -21,10 +21,22 @@
     <ClCompile Include="11653.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11650.cpp">
+    <ClCompile Include="10886.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2023.cpp">
+    <ClCompile Include="2161.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9506.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1964.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1935.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2712.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
