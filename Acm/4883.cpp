@@ -26,4 +26,3 @@ int main()
 		printf("%d. %lld\n", cnt++, data[1]);
 	}
 
-}
