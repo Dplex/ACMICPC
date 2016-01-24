@@ -18,31 +18,22 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9663.cpp">
+    <ClCompile Include="1644.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9243.cpp">
+    <ClCompile Include="1547.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11568.cpp">
+    <ClCompile Include="5525.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1246.cpp">
+    <ClCompile Include="5523.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1068.cpp">
+    <ClCompile Include="3135.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2023.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3541.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1398.cpp">
+    <ClCompile Include="1051.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
