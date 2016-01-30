@@ -17,4 +17,18 @@
   <ItemGroup>
     <Text Include="input.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1543.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2592.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1202.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1402.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
